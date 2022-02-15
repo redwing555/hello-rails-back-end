@@ -1,73 +1,65 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+ # Hello-Rails-BACKEND
 
-# Project Name
-
-> Description the project.
-
-
+This Project consists of an Api backend created using Ruby-on-Rails. Random messages are displayed on page refresh of API endpoint.
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Ruby On Rails
+- Git
 
-## Live Demo (if available)
+## LIVE
 
-[Live Demo Link](https://livedemo.com)
+[Live version right here !](https://random-greeting-api.herokuapp.com/api/v1/messages)
 
+
+
+## FRONT-END-REPO
+
+[Front end using React](https://github.com/redwing555/hello-react-front-end)
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+Follow these steps below :
 
 
-To get a local copy up and running follow these simple example steps.
+### Setup
+ ```git clone https://github.com/redwing555/hello-rails-back-end```
+
+ ```cd hello-rails-back-end```
 
 ### Prerequisites
 
-### Setup
+    Ruby Rails PostgresSQL
 
-### Install
+Install gems with:
+    
+    bundle install
 
-### Usage
+Start server with:
 
-### Run tests
+    rails s
 
-### Deployment
+Open http://localhost:3000/api/v1/messages in your browser to see json object consisting of a random message every time the page is refreshed.
 
+Install npm with:
 
+    npm install
 
-## Authors
+Install all Ruby dependecies with:
 
-👤 **Author1**
+    bundle install
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+## Author
 
-👤 **Author2**
+👤 **Hichami Houssam**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@redwing555](https://github.com/redwing555/)
+
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/redwing555/hello-rails-react/issues).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
