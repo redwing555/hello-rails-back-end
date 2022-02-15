@@ -10,8 +10,6 @@ This Project consists of an Api backend created using Ruby-on-Rails. Random mess
 
 [Live version right here !](https://random-greeting-api.herokuapp.com/api/v1/messages)
 
-- Ruby On Rails
-- Git
 
 
 ## FRONT-END-REPO
