@@ -1,6 +1,6 @@
  # Hello-Rails-React
 
-This Project consists of an Api backend created using Ruby-on-Rails. Random messages are displayed on button click.
+This Project consists of an Api backend created using Ruby-on-Rails. Random messages are displayed on page refresh of API endpoint.
 ## Built With
 
 - Ruby On Rails
@@ -9,7 +9,7 @@ This Project consists of an Api backend created using Ruby-on-Rails. Random mess
 
 ## FRONT-END-REPO
 
-[Front end using React]()
+[Front end using React](https://github.com/redwing555/hello-react-front-end)
 
 ## Getting Started
 Follow these steps below :
