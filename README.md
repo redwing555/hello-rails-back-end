@@ -1,4 +1,4 @@
- # Hello-Rails-React
+ # Hello-Rails-BACKEND
 
 This Project consists of an Api backend created using Ruby-on-Rails. Random messages are displayed on page refresh of API endpoint.
 ## Built With
